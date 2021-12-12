@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Garuda</string> <!-- Change this -->
+    <string name="phone_number">Phone Number</string>
+    <string name="clipboard">Select Number From Clipboard</string>
+    <string name="country">Country Code Not Listed</string>
+    <string name="message">Message</string>
+    <string name="send_via">Send Via</string>
+    <string name="gb_whatsapp">GB Whatsapp</string>
+    <string name="send">Send</string>
+    <string name="whatsapp_business">Whatsapp Business</string>
+    <string name="whatsapp">Whatsapp</string>
+    <string name="country_code">Country Code</string>
+    <string name="faq">FAQ</string>
+    <string name="help">Help</string>
+    <string name="more_apps">More Apps</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="about">About</string>
+    <string name="banner">IMG_16_9_APP_INSTALL#1037279406682302_1037284330015143</string> <!-- Change this -->
+    <string name="interstitial">IMG_16_9_APP_INSTALL#1037279406682302_1037279976682245</string> <!-- Change this -->
+</resources>

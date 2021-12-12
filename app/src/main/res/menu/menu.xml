@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/help"
+        android:title="@string/help"
+        android:icon="@drawable/btn"
+        app:showAsAction="never" />
+    <item android:id="@+id/faq"
+        android:title="@string/faq"
+        android:icon="@drawable/btn"
+        app:showAsAction="never" />
+    <item android:id="@+id/more"
+        android:title="@string/more_apps"
+        android:icon="@drawable/btn"
+        app:showAsAction="never" />
+    <item android:id="@+id/policy"
+        android:title="@string/privacy_policy"
+        android:icon="@drawable/btn"
+        app:showAsAction="never" />
+    <item android:id="@+id/about"
+        android:title="@string/about"
+        android:icon="@drawable/btn"
+        app:showAsAction="never" />
+</menu>
